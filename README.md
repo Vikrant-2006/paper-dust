@@ -1,1 +1,2 @@
-# paper-dust
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
